@@ -1,0 +1,7 @@
+"","regulatoryGene","targetGene","weight","goldstand"
+"1","z","x",1,1
+"2","x","z",2,0
+"3","z","y",3,1
+"4","x","y",4,1
+"5","y","z",5,0
+"6","y","x",6,0
