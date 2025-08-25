@@ -1,0 +1,984 @@
+"","weight","tpvalue"
+"k_Archaea;p_Thaumarchaeota;s_uncultured marine thaumarchaeote KM3_53_F08",0.36,0.0220465590062757
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Actinomycetales;f_Actinomycetaceae;g_Actinomyces;s_Actinomyces hongkongensis",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Actinomycetales;f_Actinomycetaceae;g_Actinomyces;s_Actinomyces naeslundii",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Actinomycetales;f_Actinomycetaceae;g_Actinomyces;s_Actinomyces oris",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Actinomycetales;f_Actinomycetaceae;g_Actinomyces;s_Actinomyces pacaensis",0.4,0.0254267648540395
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Actinomycetales;f_Actinomycetaceae;g_Actinomyces;s_Actinomyces radicidentis",0.28,0.161394112781065
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Actinomycetales;f_Actinomycetaceae;g_Actinomyces;s_Actinomyces sp. Chiba101",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Actinomycetales;f_Actinomycetaceae;g_Actinomyces;s_Actinomyces sp. oral taxon 414",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Actinomycetales;f_Actinomycetaceae;g_Arcanobacterium;s_Arcanobacterium haemolyticum",0.32,0.0334861231831493
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Actinomycetales;f_Actinomycetaceae;g_Mobiluncus;s_Mobiluncus curtisii",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Actinomycetales;f_Actinomycetaceae;g_Schaalia;s_Schaalia meyeri",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Actinomycetales;f_Actinomycetaceae;g_Schaalia;s_Schaalia radingae",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Bifidobacteriales;f_Bifidobacteriaceae;g_Bifidobacterium;s_Bifidobacterium adolescentis",0.36,0.0176750320043895
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Bifidobacteriales;f_Bifidobacteriaceae;g_Bifidobacterium;s_Bifidobacterium breve",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Bifidobacteriales;f_Bifidobacteriaceae;g_Bifidobacterium;s_Bifidobacterium longum",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Bifidobacteriales;f_Bifidobacteriaceae;g_Bifidobacterium;s_Bifidobacterium pseudocatenulatum",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Bifidobacteriales;f_Bifidobacteriaceae;g_Gardnerella;s_Gardnerella vaginalis",0.56,1.0644333860454e-05
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium accolens",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium ammoniagenes",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium argentoratense",0.52,0.000144593680683028
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium atypicum",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium aurimucosum",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium callunae",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium camporealensis",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium casei",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium crudilactis",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium deserti",0.52,0.720503827070905
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium diphtheriae",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium doosanense",0.52,0.00701097962685498
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium efficiens",0.52,0.892033694711729
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium epidermidicanis",0.2,0.39602114467495
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium falsenii",1,1.23895398780152e-18
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium flavescens",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium frankenforstense",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium glaucum",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium glutamicum",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium glyciniphilum",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium halotolerans",0.72,1.50440053761072e-07
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium humireducens",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium imitans",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium jeikeium",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium kroppenstedtii",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium lactis",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium macginleyi",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium marinum",0.64,4.50829089979798e-06
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium matruchotii",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium mycetoides",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium pseudotuberculosis",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium resistens",0.4,0.0069533017177074
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium riegelii",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium simulans",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium singulare",0.28,0.0850259532471564
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium sp. ATCC 6931",0.28,0.067778446007141
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium sp. NML98-0116",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium stationis",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium striatum",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium testudinoris",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium timonense",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium ulcerans",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium urealyticum",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium ureicelerivorans",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium variabile",0.56,4.22720105249629e-06
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium vitaeruminis",0.28,0.135175574745109
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_uncultured Corynebacterium sp.",0.44,0.0962914420872341
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Dietziaceae;g_Dietzia;s_Dietzia sp. DQ12-45-1b",0.4,0.0254250112642264
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Dietziaceae;g_Dietzia;s_Dietzia timorensis",0.88,9.24018891176514e-07
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Gordoniaceae;g_Gordonia;s_Gordonia bronchialis",0.28,0.390843890212189
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Gordoniaceae;g_Gordonia;s_Gordonia phthalatica",0.28,0.959489159787755
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Gordoniaceae;g_Gordonia;s_Gordonia polyisoprenivorans",0.64,0.176419928902846
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Gordoniaceae;g_Gordonia;s_Gordonia rubripertincta",0.72,0.00144361626058658
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Gordoniaceae;g_Gordonia;s_Gordonia sp. KTR9",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Gordoniaceae;g_Gordonia;s_Gordonia terrae",0.24,0.99688340456173
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Mycobacteriaceae;g_Mycobacterium;s_Mycobacterium avium",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Mycobacteriaceae;g_Mycobacterium;s_Mycobacterium chimaera",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Mycobacteriaceae;g_Mycobacterium;s_Mycobacterium dioxanotrophicus",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Mycobacteriaceae;g_Mycobacterium;s_Mycobacterium kansasii",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Mycobacteriaceae;g_Mycobacterium;s_Mycobacterium sp. JLS",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Mycobacteriaceae;g_Mycobacterium;s_Mycobacterium sp. KMS",0.04,0.327286881278896
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Mycobacteriaceae;g_Mycobacterium;s_Mycobacterium sp. MCS",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Mycobacteriaceae;g_Mycobacterium;s_Mycobacterium sp. MS1601",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Mycobacteriaceae;g_Mycobacterium;s_Mycobacterium sp. NRRL B-3805",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Mycobacteriaceae;g_Mycobacterium;s_Mycobacterium sp. QIA-37",0.04,0.776170407642881
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Mycobacteriaceae;g_Mycobacterium;s_Mycobacterium sp. YC-RL4",0.84,0.000352335727123643
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Mycobacteriaceae;g_Mycobacterium;s_Mycobacterium sp. djl-10",0.64,0.00128332580390025
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Mycobacteriaceae;g_Mycobacteroides;s_Mycobacteroides abscessus",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Mycobacteriaceae;g_Mycobacteroides;s_Mycobacteroides chelonae",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Mycobacteriaceae;g_Mycobacteroides;s_Mycobacteroides immunogenum",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Mycobacteriaceae;g_Mycobacteroides;s_[Mycobacterium] stephanolepidis",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Mycobacteriaceae;g_Mycolicibacter;s_Mycolicibacter terrae",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Mycobacteriaceae;g_Mycolicibacterium;s_Mycolicibacterium aurum",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Mycobacteriaceae;g_Mycolicibacterium;s_Mycolicibacterium chubuense",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Mycobacteriaceae;g_Mycolicibacterium;s_Mycolicibacterium gilvum",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Mycobacteriaceae;g_Mycolicibacterium;s_Mycolicibacterium neoaurum",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Mycobacteriaceae;g_Mycolicibacterium;s_Mycolicibacterium phlei",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Mycobacteriaceae;g_Mycolicibacterium;s_Mycolicibacterium rhodesiae",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Mycobacteriaceae;g_Mycolicibacterium;s_Mycolicibacterium rutilum",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Mycobacteriaceae;g_Mycolicibacterium;s_Mycolicibacterium vanbaalenii",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Nocardiaceae;g_Rhodococcus;s_Rhodococcus erythropolis",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Nocardiaceae;g_Rhodococcus;s_Rhodococcus fascians",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Nocardiaceae;g_Rhodococcus;s_Rhodococcus pyridinivorans",0.36,0.109049866102731
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Nocardiaceae;g_Rhodococcus;s_Rhodococcus sp. 008",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Nocardiaceae;g_Rhodococcus;s_Rhodococcus sp. B7740",0.48,0.0342107599325612
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Nocardiaceae;g_Rhodococcus;s_Rhodococcus sp. BH4",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Nocardiaceae;g_Rhodococcus;s_Rhodococcus sp. PBTS 1",0.36,0.0217168948015415
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Nocardiaceae;g_Rhodococcus;s_Rhodococcus sp. PBTS 2",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Nocardiaceae;g_Rhodococcus;s_Rhodococcus sp. YL-1",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Nocardiaceae;g_Rhodococcus;s_Rhodococcus sp. p52",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;f_Tsukamurellaceae;g_Tsukamurella;s_Tsukamurella paurometabola",0.08,0.197600758640876
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Corynebacteriales;g_Lawsonella;s_Lawsonella clevelandensis",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Geodermatophilales;f_Geodermatophilaceae;g_Blastococcus;s_Blastococcus saxobsidens",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Geodermatophilales;f_Geodermatophilaceae;g_Geodermatophilus;s_Geodermatophilus obscurus",0.56,3.00743697354027e-05
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Geodermatophilales;f_Geodermatophilaceae;g_Modestobacter;s_Modestobacter marinus",0.4,0.602554700305018
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Brevibacteriaceae;g_Brevibacterium;s_Brevibacterium aurantiacum",0.32,0.157917464373598
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Brevibacteriaceae;g_Brevibacterium;s_Brevibacterium linens",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Brevibacteriaceae;g_Brevibacterium;s_Brevibacterium sandarakinum",0.24,0.36859597010443
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Brevibacteriaceae;g_Brevibacterium;s_Brevibacterium siliguriense",0.12,0.109838025866174
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Cellulomonadaceae;g_Cellulomonas;s_Cellulomonas sp. PSBB021",0.6,0.406983518414813
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Dermabacteraceae;g_Brachybacterium;s_Brachybacterium faecium",0.68,0.0339174903578256
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Dermabacteraceae;g_Brachybacterium;s_Brachybacterium sp. P6-10-X1",0.24,0.399225597529237
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Dermabacteraceae;g_Brachybacterium;s_Brachybacterium sp. VR2415",0.36,0.00630226599321072
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Dermabacteraceae;g_Dermabacter;s_Dermabacter vaginalis",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Dermacoccaceae;g_Dermacoccus;s_Dermacoccus nishinomiyaensis",0.24,0.0164602085757731
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Dermacoccaceae;g_Kytococcus;s_Kytococcus sedentarius",0.48,0.00122703697204918
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Intrasporangiaceae;g_Arsenicicoccus;s_Arsenicicoccus sp. oral taxon 190",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Intrasporangiaceae;g_Intrasporangium;s_Intrasporangium calvum",0.4,0.0158206354660586
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Intrasporangiaceae;g_Janibacter;s_Janibacter indicus",1,1.27096714901837e-23
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Intrasporangiaceae;g_Phycicoccus;s_Phycicoccus dokdonensis",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Intrasporangiaceae;g_Serinicoccus;s_Serinicoccus sp. JLT9",0.32,0.194100550511648
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Jonesiaceae;g_Jonesia;s_Jonesia denitrificans",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Microbacteriaceae;g_Agrococcus;s_Agrococcus carbonis",0.28,0.445308098699771
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Microbacteriaceae;g_Curtobacterium;s_Curtobacterium sp. BH-2-1-1",0.6,0.00825612274103769
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Microbacteriaceae;g_Leifsonia;s_Leifsonia xyli",0.76,6.25744472389239e-07
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Microbacteriaceae;g_Microbacterium;s_Microbacterium aurum",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Microbacteriaceae;g_Microbacterium;s_Microbacterium chocolatum",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Microbacteriaceae;g_Microbacterium;s_Microbacterium foliorum",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Microbacteriaceae;g_Microbacterium;s_Microbacterium paludicola",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Microbacteriaceae;g_Microbacterium;s_Microbacterium paraoxydans",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Microbacteriaceae;g_Microbacterium;s_Microbacterium pygmaeum",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Microbacteriaceae;g_Microbacterium;s_Microbacterium sp.",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Microbacteriaceae;g_Microbacterium;s_Microbacterium sp. 1.5R",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Microbacteriaceae;g_Microbacterium;s_Microbacterium sp. BH-3-3-3",0.52,0.136560110257578
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Microbacteriaceae;g_Microbacterium;s_Microbacterium sp. CGR1",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Microbacteriaceae;g_Microbacterium;s_Microbacterium sp. LKL04",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Microbacteriaceae;g_Microbacterium;s_Microbacterium sp. No. 7",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Microbacteriaceae;g_Microbacterium;s_Microbacterium sp. PAMC 28756",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Microbacteriaceae;g_Microbacterium;s_Microbacterium sp. TPU 3598",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Microbacteriaceae;g_Microbacterium;s_Microbacterium sp. XT11",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Microbacteriaceae;g_Microbacterium;s_Microbacterium testaceum",0.56,0.000307780071888886
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Microbacteriaceae;g_Plantibacter;s_Plantibacter flavus",0.76,2.49698553918e-09
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Micrococcaceae;g_Arthrobacter;s_Arthrobacter alpinus",0.28,0.544482352612523
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Micrococcaceae;g_Arthrobacter;s_Arthrobacter sp. FB24",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Micrococcaceae;g_Arthrobacter;s_Arthrobacter sp. QXT-31",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Micrococcaceae;g_Arthrobacter;s_Arthrobacter sp. U41",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Micrococcaceae;g_Glutamicibacter;s_Glutamicibacter arilaitensis",0.64,0.00141974223433154
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Micrococcaceae;g_Kocuria;s_Kocuria flava",0.4,0.0501372277991785
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Micrococcaceae;g_Kocuria;s_Kocuria palustris",0.64,0.182507347100238
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Micrococcaceae;g_Kocuria;s_Kocuria rhizophila",0.56,7.48007010833006e-06
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Micrococcaceae;g_Kocuria;s_Kocuria turfanensis",0.16,0.430972547657592
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Micrococcaceae;g_Micrococcus;s_Micrococcus luteus",0.44,0.00173301959009379
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Micrococcaceae;g_Micrococcus;s_Micrococcus sp. 28",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Micrococcaceae;g_Micrococcus;s_Micrococcus sp. A1",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Micrococcaceae;g_Micrococcus;s_Micrococcus sp. A7",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Micrococcaceae;g_Micrococcus;s_Micrococcus sp. MG-2010-D12",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Micrococcaceae;g_Micrococcus;s_Micrococcus sp. V7",0.56,0.00391584027059151
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Micrococcaceae;g_Neomicrococcus;s_Neomicrococcus aestuarii",1,1.47801432931939e-24
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Micrococcaceae;g_Pseudarthrobacter;s_Pseudarthrobacter phenanthrenivorans",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Micrococcaceae;g_Rothia;s_Rothia aeria",0.72,3.51783585190487e-06
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Micrococcaceae;g_Rothia;s_Rothia dentocariosa",0.44,0.000195384029718015
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Micrococcales;f_Micrococcaceae;g_Rothia;s_Rothia mucilaginosa",0.36,0.0090911332159539
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Nakamurellales;f_Nakamurellaceae;g_Nakamurella;s_Nakamurella multipartita",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Propionibacteriales;f_Nocardioidaceae;g_Aeromicrobium;s_Aeromicrobium choanae",0.36,0.0423641089219016
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Propionibacteriales;f_Nocardioidaceae;g_Aeromicrobium;s_Aeromicrobium erythreum",0.16,0.497123908249931
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Propionibacteriales;f_Nocardioidaceae;g_Friedmanniella;s_Friedmanniella luteola",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Propionibacteriales;f_Nocardioidaceae;g_Friedmanniella;s_Friedmanniella sagamiharensis",0.2,0.367213785393252
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Propionibacteriales;f_Nocardioidaceae;g_Marmoricola;s_Marmoricola scoriae",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Propionibacteriales;f_Nocardioidaceae;g_Nocardioides;s_Nocardioides dokdonensis",0.28,0.0128159666930191
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Propionibacteriales;f_Nocardioidaceae;g_Nocardioides;s_Nocardioides sp. JS614",0.52,0.0018128180737992
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Propionibacteriales;f_Propionibacteriaceae;g_Acidipropionibacterium;s_Acidipropionibacterium acidipropionici",0.64,3.49018556736457e-07
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Propionibacteriales;f_Propionibacteriaceae;g_Cutibacterium;s_Cutibacterium acnes",0.68,0.152920574508578
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Propionibacteriales;f_Propionibacteriaceae;g_Cutibacterium;s_Cutibacterium avidum",0.44,0.00384370956099011
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Propionibacteriales;f_Propionibacteriaceae;g_Cutibacterium;s_Cutibacterium granulosum",0.2,0.744592424345929
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Propionibacteriales;f_Propionibacteriaceae;g_Cutibacterium;s_[Propionibacterium] namnetense",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Propionibacteriales;f_Propionibacteriaceae;g_Microlunatus;s_Microlunatus phosphovorus",0.56,0.0891104395236856
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Propionibacteriales;f_Propionibacteriaceae;g_Microlunatus;s_Microlunatus soli",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Propionibacteriales;f_Propionibacteriaceae;g_Propionibacterium;s_Propionibacterium freudenreichii",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Propionibacteriales;f_Propionibacteriaceae;g_Propionibacterium;s_Propionibacterium sp. oral taxon 193",0.16,0.740990589801436
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Propionibacteriales;f_Propionibacteriaceae;g_Propionimicrobium;s_Propionimicrobium sp. Marseille-P3275",0.08,0.212425448495978
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Propionibacteriales;f_Propionibacteriaceae;g_Pseudopropionibacterium;s_Pseudopropionibacterium propionicum",0.2,0.549102786901492
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Propionibacteriales;f_Propionibacteriaceae;g_Tessaracoccus;s_Tessaracoccus aquimaris",0.16,0.809321483098791
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Propionibacteriales;f_Propionibacteriaceae;g_Tessaracoccus;s_Tessaracoccus flavescens",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Propionibacteriales;f_Propionibacteriaceae;g_Tessaracoccus;s_Tessaracoccus flavus",0.56,0.681136241359307
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Propionibacteriales;f_Propionibacteriaceae;g_Tessaracoccus;s_Tessaracoccus sp. T2.5-30",0.48,0.665433168966184
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Pseudonocardiales;f_Pseudonocardiaceae;g_Pseudonocardia;s_Pseudonocardia sp. AL041005-10",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Pseudonocardiales;f_Pseudonocardiaceae;g_Pseudonocardia;s_Pseudonocardia sp. EC080610-09",0.4,0.113375518333598
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Pseudonocardiales;f_Pseudonocardiaceae;g_Pseudonocardia;s_Pseudonocardia sp. EC080619-01",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Pseudonocardiales;f_Pseudonocardiaceae;g_Pseudonocardia;s_Pseudonocardia sp. EC080625-04",0.56,0.00011263250416226
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Pseudonocardiales;f_Pseudonocardiaceae;g_Pseudonocardia;s_Pseudonocardia sp. HH130629-09",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Pseudonocardiales;f_Pseudonocardiaceae;g_Pseudonocardia;s_Pseudonocardia sp. HH130630-07",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Streptomycetales;f_Streptomycetaceae;g_Streptomyces;s_Streptomyces albidoflavus",0.2,0.444711857672367
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Streptomycetales;f_Streptomycetaceae;g_Streptomyces;s_Streptomyces griseus",0,1
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Streptomycetales;f_Streptomycetaceae;g_Streptomyces;s_Streptomyces venezuelae",0.16,0.887464365116764
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Streptosporangiales;f_Nocardiopsaceae;g_Nocardiopsis;s_Nocardiopsis dassonvillei",0.52,0.0215294596229282
+"k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Streptosporangiales;f_Streptosporangiaceae;g_Nonomuraea;s_Nonomuraea sp. ATCC 55076",0,1
+"k_Bacteria;p_Actinobacteria;c_Coriobacteriia;o_Coriobacteriales;f_Atopobiaceae;g_Atopobium;s_Atopobium parvulum",0.36,0.123418064142951
+"k_Bacteria;p_Actinobacteria;c_Coriobacteriia;o_Coriobacteriales;f_Atopobiaceae;g_Olsenella;s_Olsenella sp. oral taxon 807",0,1
+"k_Bacteria;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides caecimuris",0,1
+"k_Bacteria;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides dorei",0,1
+"k_Bacteria;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis",0,1
+"k_Bacteria;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides ovatus",0,1
+"k_Bacteria;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides salanitronis",0.36,0.0454885669585331
+"k_Bacteria;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides thetaiotaomicron",0,1
+"k_Bacteria;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides vulgatus",0,1
+"k_Bacteria;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides xylanisolvens",0,1
+"k_Bacteria;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae;g_Odoribacter;s_Odoribacter splanchnicus",0,1
+"k_Bacteria;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Porphyromonadaceae;g_Porphyromonas;s_Porphyromonas asaccharolytica",0,1
+"k_Bacteria;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Porphyromonadaceae;g_Porphyromonas;s_Porphyromonas gingivalis",0.48,0.497163108876254
+"k_Bacteria;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Prevotellaceae;g_Prevotella;s_Prevotella dentalis",0,1
+"k_Bacteria;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Prevotellaceae;g_Prevotella;s_Prevotella denticola",0.2,0.173454061949779
+"k_Bacteria;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Prevotellaceae;g_Prevotella;s_Prevotella enoeca",0,1
+"k_Bacteria;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Prevotellaceae;g_Prevotella;s_Prevotella fusca",0,1
+"k_Bacteria;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Prevotellaceae;g_Prevotella;s_Prevotella intermedia",0.2,0.362262379408194
+"k_Bacteria;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Prevotellaceae;g_Prevotella;s_Prevotella melaninogenica",0.36,0.039384971722938
+"k_Bacteria;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Prevotellaceae;g_Prevotella;s_Prevotella scopos",0,1
+"k_Bacteria;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Prevotellaceae;g_Prevotella;s_Prevotella sp. oral taxon 299",0,1
+"k_Bacteria;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Tannerellaceae;g_Parabacteroides;s_Parabacteroides sp. CT06",0.48,0.00556269105217694
+"k_Bacteria;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Tannerellaceae;g_Tannerella;s_Tannerella forsythia",0,1
+"k_Bacteria;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Tannerellaceae;g_Tannerella;s_Tannerella sp. oral taxon HOT-286",0.28,0.197091368447387
+"k_Bacteria;p_Bacteroidetes;c_Cytophagia;o_Cytophagales;f_Cyclobacteriaceae;g_Belliella;s_Belliella baltica",0.2,0.531073532421867
+"k_Bacteria;p_Bacteroidetes;c_Cytophagia;o_Cytophagales;f_Cytophagaceae;g_Leadbetterella;s_Leadbetterella byssophila",0,1
+"k_Bacteria;p_Bacteroidetes;c_Cytophagia;o_Cytophagales;f_Hymenobacteraceae;g_Hymenobacter;s_Hymenobacter sedentarius",0.16,0.684640340864959
+"k_Bacteria;p_Bacteroidetes;c_Cytophagia;o_Cytophagales;f_Hymenobacteraceae;g_Hymenobacter;s_Hymenobacter sp. APR13",0.04,0.327286881281183
+"k_Bacteria;p_Bacteroidetes;c_Cytophagia;o_Cytophagales;f_Hymenobacteraceae;g_Hymenobacter;s_Hymenobacter sp. DG25A",0.6,0.205371521881311
+"k_Bacteria;p_Bacteroidetes;c_Cytophagia;o_Cytophagales;f_Hymenobacteraceae;g_Hymenobacter;s_Hymenobacter sp. DG25B",0,1
+"k_Bacteria;p_Bacteroidetes;c_Cytophagia;o_Cytophagales;f_Hymenobacteraceae;g_Hymenobacter;s_Hymenobacter sp. PAMC 26554",0.2,0.786420161084757
+"k_Bacteria;p_Bacteroidetes;c_Cytophagia;o_Cytophagales;f_Hymenobacteraceae;g_Hymenobacter;s_Hymenobacter swuensis",0.48,6.72846367871373e-05
+"k_Bacteria;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Bergeyella;s_Bergeyella zoohelcum",0,1
+"k_Bacteria;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Capnocytophaga;s_Capnocytophaga gingivalis",0,1
+"k_Bacteria;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Capnocytophaga;s_Capnocytophaga haemolytica",0.28,0.610380107212399
+"k_Bacteria;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Capnocytophaga;s_Capnocytophaga leadbetteri",0.6,0.203665382170093
+"k_Bacteria;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Capnocytophaga;s_Capnocytophaga ochracea",0,1
+"k_Bacteria;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Capnocytophaga;s_Capnocytophaga sp. ChDC OS43",0,1
+"k_Bacteria;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Capnocytophaga;s_Capnocytophaga sp. oral taxon 323",0,1
+"k_Bacteria;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Capnocytophaga;s_Capnocytophaga sputigena",0,1
+"k_Bacteria;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Chryseobacterium;s_Chryseobacterium gallinarum",0,1
+"k_Bacteria;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Chryseobacterium;s_Chryseobacterium glaciei",0.2,0.403223138789991
+"k_Bacteria;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Chryseobacterium;s_Chryseobacterium haifense",0,1
+"k_Bacteria;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Chryseobacterium;s_Chryseobacterium indologenes",0,1
+"k_Bacteria;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Chryseobacterium;s_Chryseobacterium sp. IHB B 17019",0,1
+"k_Bacteria;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Chryseobacterium;s_Chryseobacterium sp. StRB126",0,1
+"k_Bacteria;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Chryseobacterium;s_Chryseobacterium sp. T16E-39",0.6,0.0760899020148061
+"k_Bacteria;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Chryseobacterium;s_Chryseobacterium taklimakanense",0,1
+"k_Bacteria;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Elizabethkingia;s_Elizabethkingia anophelis",0,1
+"k_Bacteria;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Elizabethkingia;s_Elizabethkingia bruuniana",0,1
+"k_Bacteria;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Elizabethkingia;s_Elizabethkingia miricola",0,1
+"k_Bacteria;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Elizabethkingia;s_Elizabethkingia ursingii",0,1
+"k_Bacteria;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium;s_Flavobacterium anhuiense",0,1
+"k_Bacteria;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium;s_Flavobacterium branchiophilum",0.32,0.0393710511711344
+"k_Bacteria;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium;s_Flavobacterium columnare",0.8,9.00837680189968e-05
+"k_Bacteria;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium;s_Flavobacterium commune",0.68,0.00214764271921459
+"k_Bacteria;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium;s_Flavobacterium crassostreae",0,1
+"k_Bacteria;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium;s_Flavobacterium gilvum",0.56,0.225732650120487
+"k_Bacteria;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium;s_Flavobacterium johnsoniae",0.6,7.1335223336467e-05
+"k_Bacteria;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium;s_Flavobacterium psychrophilum",0,1
+"k_Bacteria;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Myroides;s_Myroides odoratimimus",0.24,0.191847839392472
+"k_Bacteria;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Ornithobacterium;s_Ornithobacterium rhinotracheale",0.44,0.765442281573269
+"k_Bacteria;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Riemerella;s_Riemerella anatipestifer",0,1
+"k_Bacteria;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Weeksella;s_Weeksella virosa",0,1
+"k_Bacteria;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;s_Flavobacteriaceae bacterium 3519-10",0,1
+"k_Bacteria;p_Bacteroidetes;c_Sphingobacteriia;o_Sphingobacteriales;f_Sphingobacteriaceae;g_Pseudopedobacter;s_Pseudopedobacter saltans",0.72,6.60524665363434e-08
+"k_Bacteria;p_Bacteroidetes;c_Sphingobacteriia;o_Sphingobacteriales;f_Sphingobacteriaceae;g_Sphingobacterium;s_Sphingobacterium sp. B29",0,1
+"k_Bacteria;p_Bacteroidetes;c_Sphingobacteriia;o_Sphingobacteriales;f_Sphingobacteriaceae;g_Sphingobacterium;s_Sphingobacterium sp. G1-14",0,1
+"k_Bacteria;p_Bacteroidetes;c_Sphingobacteriia;o_Sphingobacteriales;f_Sphingobacteriaceae;g_Sphingobacterium;s_Sphingobacterium sp. ML3W",0.4,0.00314340553526392
+"k_Bacteria;p_Bacteroidetes;c_Sphingobacteriia;o_Sphingobacteriales;f_Sphingobacteriaceae;g_Sphingobacterium;s_Sphingobacterium sp. PM2-P1-29",0,1
+"k_Bacteria;p_Candidatus Saccharibacteria;s_Candidatus Saccharibacteria bacterium GW2011_GWC2_44_17",0,1
+"k_Bacteria;p_Candidatus Saccharibacteria;s_Candidatus Saccharibacteria oral taxon TM7x",0,1
+"k_Bacteria;p_Cyanobacteria;o_Chroococcales;f_Microcystaceae;g_Microcystis;s_Microcystis aeruginosa",0,1
+"k_Bacteria;p_Cyanobacteria;o_Chroococcidiopsidales;f_Chroococcidiopsidaceae;g_Chroococcidiopsis;s_Chroococcidiopsis thermalis",1,9.16200141862367e-28
+"k_Bacteria;p_Cyanobacteria;o_Chroococcidiopsidales;f_Chroococcidiopsidaceae;g_Chroococcidiopsis;s_uncultured Chroococcidiopsis sp.",0.4,0.229362684085408
+"k_Bacteria;p_Cyanobacteria;o_Nostocales;f_Rivulariaceae;g_Calothrix;s_Calothrix sp. NIES-4071",0,1
+"k_Bacteria;p_Cyanobacteria;o_Nostocales;f_Rivulariaceae;g_Calothrix;s_Calothrix sp. NIES-4105",0,1
+"k_Bacteria;p_Cyanobacteria;o_Nostocales;f_Scytonemataceae;g_Scytonema;s_Scytonema sp. HK-05",0,1
+"k_Bacteria;p_Cyanobacteria;o_Nostocales;f_Scytonemataceae;g_Scytonema;s_Scytonema sp. NIES-4073",0.36,0.0358428110364558
+"k_Bacteria;p_Cyanobacteria;o_Oscillatoriales;f_Microcoleaceae;g_Microcoleus;s_Microcoleus sp. PCC 7113",0.6,0.964701446348306
+"k_Bacteria;p_Cyanobacteria;o_Oscillatoriales;f_Oscillatoriaceae;g_Oscillatoria;s_Oscillatoria nigro-viridis",0.28,0.949096563081187
+"k_Bacteria;p_Deinococcus-Thermus;c_Deinococci;o_Deinococcales;f_Deinococcaceae;g_Deinococcus;s_Deinococcus actinosclerus",0,1
+"k_Bacteria;p_Deinococcus-Thermus;c_Deinococci;o_Deinococcales;f_Deinococcaceae;g_Deinococcus;s_Deinococcus ficus",0.36,0.136948571949985
+"k_Bacteria;p_Deinococcus-Thermus;c_Deinococci;o_Deinococcales;f_Deinococcaceae;g_Deinococcus;s_Deinococcus geothermalis",0,1
+"k_Bacteria;p_Deinococcus-Thermus;c_Deinococci;o_Deinococcales;f_Deinococcaceae;g_Deinococcus;s_Deinococcus gobiensis",0,1
+"k_Bacteria;p_Deinococcus-Thermus;c_Deinococci;o_Deinococcales;f_Deinococcaceae;g_Deinococcus;s_Deinococcus proteolyticus",0,1
+"k_Bacteria;p_Deinococcus-Thermus;c_Deinococci;o_Deinococcales;f_Deinococcaceae;g_Deinococcus;s_Deinococcus puniceus",0.4,0.0610750263593186
+"k_Bacteria;p_Deinococcus-Thermus;c_Deinococci;o_Deinococcales;f_Deinococcaceae;g_Deinococcus;s_Deinococcus radiodurans",0,1
+"k_Bacteria;p_Deinococcus-Thermus;c_Deinococci;o_Deinococcales;f_Deinococcaceae;g_Deinococcus;s_Deinococcus soli Cha et al. 2016",0.28,0.287714065157745
+"k_Bacteria;p_Deinococcus-Thermus;c_Deinococci;o_Deinococcales;f_Deinococcaceae;g_Deinococcus;s_Deinococcus swuensis",0,1
+"k_Bacteria;p_Deinococcus-Thermus;c_Deinococci;o_Thermales;f_Thermaceae;g_Meiothermus;s_Meiothermus silvanus",0.84,2.08391326465967e-05
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales;f_Bacillaceae;g_Anoxybacillus;s_Anoxybacillus flavithermus",0.68,4.59780899722547e-06
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales;f_Bacillaceae;g_Bacillus;s_Bacillus cereus",1,7.16281261644968e-21
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales;f_Listeriaceae;g_Listeria;s_Listeria monocytogenes",1,9.84951501771733e-11
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales;f_Staphylococcaceae;g_Auricoccus;s_Auricoccus indicus",1,7.25667349721733e-19
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales;f_Staphylococcaceae;g_Macrococcus;s_Macrococcus caseolyticus",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales;f_Staphylococcaceae;g_Macrococcus;s_Macrococcus sp. IME1552",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales;f_Staphylococcaceae;g_Staphylococcus;s_Staphylococcus arlettae",0.28,0.180948349302008
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales;f_Staphylococcaceae;g_Staphylococcus;s_Staphylococcus aureus",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales;f_Staphylococcaceae;g_Staphylococcus;s_Staphylococcus capitis",0.28,0.0914376653553596
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales;f_Staphylococcaceae;g_Staphylococcus;s_Staphylococcus carnosus",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales;f_Staphylococcaceae;g_Staphylococcus;s_Staphylococcus chromogenes",0.48,0.106172319009108
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales;f_Staphylococcaceae;g_Staphylococcus;s_Staphylococcus cohnii",0.24,0.411230485592254
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales;f_Staphylococcaceae;g_Staphylococcus;s_Staphylococcus condimenti",0.2,0.346646147934693
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales;f_Staphylococcaceae;g_Staphylococcus;s_Staphylococcus epidermidis",0.24,0.00872983544122813
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales;f_Staphylococcaceae;g_Staphylococcus;s_Staphylococcus equorum",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales;f_Staphylococcaceae;g_Staphylococcus;s_Staphylococcus haemolyticus",0.76,0.0136253885555931
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales;f_Staphylococcaceae;g_Staphylococcus;s_Staphylococcus hominis",0.44,0.0150142135356065
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales;f_Staphylococcaceae;g_Staphylococcus;s_Staphylococcus lugdunensis",0.52,0.000124462642787211
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales;f_Staphylococcaceae;g_Staphylococcus;s_Staphylococcus muscae",1,2.39963912839283e-31
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales;f_Staphylococcaceae;g_Staphylococcus;s_Staphylococcus pasteuri",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales;f_Staphylococcaceae;g_Staphylococcus;s_Staphylococcus pettenkoferi",0.68,0.0902526091845228
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales;f_Staphylococcaceae;g_Staphylococcus;s_Staphylococcus pseudintermedius",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales;f_Staphylococcaceae;g_Staphylococcus;s_Staphylococcus saccharolyticus",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales;f_Staphylococcaceae;g_Staphylococcus;s_Staphylococcus saprophyticus",0.88,0.00171983005883548
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales;f_Staphylococcaceae;g_Staphylococcus;s_Staphylococcus schleiferi",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales;f_Staphylococcaceae;g_Staphylococcus;s_Staphylococcus sciuri",0.32,0.183829777552484
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales;f_Staphylococcaceae;g_Staphylococcus;s_Staphylococcus simulans",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales;f_Staphylococcaceae;g_Staphylococcus;s_Staphylococcus sp. 693-2",0.48,0.915508829121088
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales;f_Staphylococcaceae;g_Staphylococcus;s_Staphylococcus sp. AntiMn-1",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales;f_Staphylococcaceae;g_Staphylococcus;s_Staphylococcus succinus",0.36,0.103205485972139
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales;f_Staphylococcaceae;g_Staphylococcus;s_Staphylococcus warneri",0.52,0.0140397607557196
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales;f_Staphylococcaceae;g_Staphylococcus;s_Staphylococcus xylosus",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales;g_Gemella;s_Gemella sp. oral taxon 928",0.48,0.0110346613167055
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Aerococcaceae;g_Aerococcus;s_Aerococcus christensenii",0.32,0.341996147877272
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Aerococcaceae;g_Aerococcus;s_Aerococcus urinaeequi",0.56,2.08524949464771e-05
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Aerococcaceae;g_Aerococcus;s_Aerococcus viridans",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Carnobacteriaceae;g_Carnobacterium;s_Carnobacterium inhibens",0.24,0.496500836445289
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Enterococcaceae;g_Enterococcus;s_Enterococcus faecalis",0.8,1.7778121311745e-08
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Enterococcaceae;g_Enterococcus;s_Enterococcus faecium",0.08,0.228034406431006
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Lactobacillaceae;g_Lactobacillus;s_Lactobacillus amylovorus",0.12,0.340425733172257
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Lactobacillaceae;g_Lactobacillus;s_Lactobacillus backii",0.4,0.0114666142305869
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Lactobacillaceae;g_Lactobacillus;s_Lactobacillus brevis",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Lactobacillaceae;g_Lactobacillus;s_Lactobacillus crispatus",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Lactobacillaceae;g_Lactobacillus;s_Lactobacillus curvatus",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Lactobacillaceae;g_Lactobacillus;s_Lactobacillus delbrueckii",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Lactobacillaceae;g_Lactobacillus;s_Lactobacillus fermentum",0.36,0.0671691165698744
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Lactobacillaceae;g_Lactobacillus;s_Lactobacillus helveticus",0.32,0.0967139406870754
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Lactobacillaceae;g_Lactobacillus;s_Lactobacillus johnsonii",0.44,0.621375160649823
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Lactobacillaceae;g_Lactobacillus;s_Lactobacillus paracasei",0.44,0.363519030898204
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Lactobacillaceae;g_Lactobacillus;s_Lactobacillus plantarum",0.32,0.0281189275556147
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Lactobacillaceae;g_Lactobacillus;s_Lactobacillus sakei",0.6,0.216985902170423
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Leuconostocaceae;g_Leuconostoc;s_Leuconostoc carnosum",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Leuconostocaceae;g_Leuconostoc;s_Leuconostoc citreum",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Leuconostocaceae;g_Leuconostoc;s_Leuconostoc garlicum",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Leuconostocaceae;g_Leuconostoc;s_Leuconostoc lactis",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Leuconostocaceae;g_Leuconostoc;s_Leuconostoc mesenteroides",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Leuconostocaceae;g_Weissella;s_Weissella cibaria",0.48,0.191140079562428
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus;s_Lactococcus garvieae",1,6.32329396464467e-18
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus;s_Lactococcus lactis",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus;s_Lactococcus piscium",0.56,0.0656082422154807
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus;s_Lactococcus raffinolactis",0.28,0.185917168421499
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Streptococcus;s_Streptococcus agalactiae",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Streptococcus;s_Streptococcus anginosus",0.72,0.00211512768644086
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Streptococcus;s_Streptococcus australis",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Streptococcus;s_Streptococcus constellatus",0.64,0.00607470592318396
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Streptococcus;s_Streptococcus cristatus",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Streptococcus;s_Streptococcus dysgalactiae",0.8,1.16654715147271e-10
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Streptococcus;s_Streptococcus equi",0.68,1.57053352937442e-06
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Streptococcus;s_Streptococcus equinus",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Streptococcus;s_Streptococcus gallolyticus",0.32,0.108078203204686
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Streptococcus;s_Streptococcus gordonii",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Streptococcus;s_Streptococcus infantarius",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Streptococcus;s_Streptococcus infantis",0.68,0.0984829336111353
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Streptococcus;s_Streptococcus intermedius",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Streptococcus;s_Streptococcus lutetiensis",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Streptococcus;s_Streptococcus macedonicus",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Streptococcus;s_Streptococcus mitis",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Streptococcus;s_Streptococcus mutans",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Streptococcus;s_Streptococcus oralis",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Streptococcus;s_Streptococcus parasanguinis",0.4,0.152983463308656
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Streptococcus;s_Streptococcus pneumoniae",0.44,0.000569696458251206
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Streptococcus;s_Streptococcus pseudopneumoniae",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Streptococcus;s_Streptococcus pyogenes",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Streptococcus;s_Streptococcus salivarius",0.32,0.191035465355197
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Streptococcus;s_Streptococcus sanguinis",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Streptococcus;s_Streptococcus sp. A12",0.32,0.00750713091304329
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Streptococcus;s_Streptococcus sp. FDAARGOS_192",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Streptococcus;s_Streptococcus sp. I-G2",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Streptococcus;s_Streptococcus sp. I-P16",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Streptococcus;s_Streptococcus sp. NPS 308",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Streptococcus;s_Streptococcus sp. VT 162",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Streptococcus;s_Streptococcus sp. oral taxon 064",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Streptococcus;s_Streptococcus sp. oral taxon 431",0.52,0.000697384131260094
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Streptococcus;s_Streptococcus suis",0,1
+"k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Streptococcus;s_Streptococcus thermophilus",0.44,0.00167583273047999
+"k_Bacteria;p_Firmicutes;c_Clostridia;o_Clostridiales;f_Clostridiales Family XIII. Incertae Sedis;g_Mogibacterium;s_Mogibacterium pumilum",0,1
+"k_Bacteria;p_Firmicutes;c_Clostridia;o_Clostridiales;f_Clostridiales Family XIII. Incertae Sedis;s_[Eubacterium] sulci",0.08,0.161491902473078
+"k_Bacteria;p_Firmicutes;c_Clostridia;o_Clostridiales;f_Lachnospiraceae;g_Anaerostipes;s_Anaerostipes hadrus",0,1
+"k_Bacteria;p_Firmicutes;c_Clostridia;o_Clostridiales;f_Lachnospiraceae;g_Blautia;s_Blautia hansenii",0.24,0.835208145169304
+"k_Bacteria;p_Firmicutes;c_Clostridia;o_Clostridiales;f_Lachnospiraceae;g_Blautia;s_Blautia obeum",0,1
+"k_Bacteria;p_Firmicutes;c_Clostridia;o_Clostridiales;f_Lachnospiraceae;g_Blautia;s_[Ruminococcus] torques",0,1
+"k_Bacteria;p_Firmicutes;c_Clostridia;o_Clostridiales;f_Lachnospiraceae;g_Coprococcus;s_Coprococcus catus",0,1
+"k_Bacteria;p_Firmicutes;c_Clostridia;o_Clostridiales;f_Lachnospiraceae;g_Roseburia;s_Roseburia hominis",0,1
+"k_Bacteria;p_Firmicutes;c_Clostridia;o_Clostridiales;f_Lachnospiraceae;g_Roseburia;s_Roseburia intestinalis",0,1
+"k_Bacteria;p_Firmicutes;c_Clostridia;o_Clostridiales;f_Lachnospiraceae;s_[Eubacterium] rectale",0,1
+"k_Bacteria;p_Firmicutes;c_Clostridia;o_Clostridiales;f_Peptostreptococcaceae;g_Clostridioides;s_Clostridioides difficile",0,1
+"k_Bacteria;p_Firmicutes;c_Clostridia;o_Clostridiales;f_Peptostreptococcaceae;g_Filifactor;s_Filifactor alocis",0,1
+"k_Bacteria;p_Firmicutes;c_Clostridia;o_Clostridiales;f_Ruminococcaceae;g_Faecalibacterium;s_Faecalibacterium prausnitzii",0,1
+"k_Bacteria;p_Firmicutes;c_Clostridia;o_Clostridiales;f_Ruminococcaceae;g_Ruminococcus;s_Ruminococcus sp. SR1/5",0,1
+"k_Bacteria;p_Firmicutes;c_Negativicutes;o_Selenomonadales;f_Selenomonadaceae;g_Selenomonas;s_Selenomonas sp. oral taxon 126",0,1
+"k_Bacteria;p_Firmicutes;c_Negativicutes;o_Selenomonadales;f_Selenomonadaceae;g_Selenomonas;s_Selenomonas sp. oral taxon 920",0.16,0.0845935980693632
+"k_Bacteria;p_Firmicutes;c_Negativicutes;o_Veillonellales;f_Veillonellaceae;g_Veillonella;s_Veillonella atypica",0,1
+"k_Bacteria;p_Firmicutes;c_Negativicutes;o_Veillonellales;f_Veillonellaceae;g_Veillonella;s_Veillonella parvula",0,1
+"k_Bacteria;p_Firmicutes;c_Negativicutes;o_Veillonellales;f_Veillonellaceae;g_Veillonella;s_Veillonella rodentium",0,1
+"k_Bacteria;p_Firmicutes;c_Tissierellia;g_Ezakiella;s_Ezakiella massiliensis",0,1
+"k_Bacteria;p_Firmicutes;c_Tissierellia;o_Tissierellales;f_Peptoniphilaceae;g_Anaerococcus;s_Anaerococcus mediterraneensis",0.2,0.938012521248669
+"k_Bacteria;p_Firmicutes;c_Tissierellia;o_Tissierellales;f_Peptoniphilaceae;g_Anaerococcus;s_Anaerococcus prevotii",0,1
+"k_Bacteria;p_Firmicutes;c_Tissierellia;o_Tissierellales;f_Peptoniphilaceae;g_Finegoldia;s_Finegoldia magna",0.52,4.98610186565947e-05
+"k_Bacteria;p_Firmicutes;c_Tissierellia;o_Tissierellales;f_Peptoniphilaceae;g_Murdochiella;s_Murdochiella vaginalis",0,1
+"k_Bacteria;p_Firmicutes;c_Tissierellia;o_Tissierellales;f_Peptoniphilaceae;g_Parvimonas;s_Parvimonas micra",0,1
+"k_Bacteria;p_Firmicutes;c_Tissierellia;o_Tissierellales;f_Peptoniphilaceae;g_Peptoniphilus;s_Peptoniphilus ivorii",0,1
+"k_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Fusobacterium;s_Fusobacterium hwasookii",0.24,0.961596695070169
+"k_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Fusobacterium;s_Fusobacterium nucleatum",0.36,0.00895998116613317
+"k_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Leptotrichiaceae;g_Leptotrichia;s_Leptotrichia buccalis",0.32,0.608479351914205
+"k_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Leptotrichiaceae;g_Leptotrichia;s_Leptotrichia sp. oral taxon 212",0,1
+"k_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Leptotrichiaceae;g_Leptotrichia;s_Leptotrichia sp. oral taxon 498",0,1
+"k_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Leptotrichiaceae;g_Leptotrichia;s_Leptotrichia sp. oral taxon 847",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;g_Polymorphum;s_Polymorphum gilvum",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Caulobacterales;f_Caulobacteraceae;g_Brevundimonas;s_Brevundimonas diminuta",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Caulobacterales;f_Caulobacteraceae;g_Brevundimonas;s_Brevundimonas naejangsanensis",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Caulobacterales;f_Caulobacteraceae;g_Brevundimonas;s_Brevundimonas sp. DS20",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Caulobacterales;f_Caulobacteraceae;g_Brevundimonas;s_Brevundimonas sp. GW460-12-10-14-LB2",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Caulobacterales;f_Caulobacteraceae;g_Brevundimonas;s_Brevundimonas sp. LM2",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Caulobacterales;f_Caulobacteraceae;g_Brevundimonas;s_Brevundimonas subvibrioides",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Caulobacterales;f_Caulobacteraceae;g_Brevundimonas;s_Brevundimonas vesicularis",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Caulobacterales;f_Caulobacteraceae;g_Caulobacter;s_Caulobacter segnis",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Caulobacterales;f_Caulobacteraceae;g_Caulobacter;s_Caulobacter vibrioides",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Caulobacterales;f_Caulobacteraceae;g_Phenylobacterium;s_Phenylobacterium zucineum",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Aurantimonadaceae;g_Martelella;s_Martelella mediterranea",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Bradyrhizobiaceae;g_Bosea;s_Bosea sp. AS-1",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Bradyrhizobiaceae;g_Bosea;s_Bosea sp. PAMC 26642",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Bradyrhizobiaceae;g_Bosea;s_Bosea sp. RAC05",0.52,0.076054250361854
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Bradyrhizobiaceae;g_Bosea;s_Bosea vaviloviae",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Bradyrhizobiaceae;g_Bradyrhizobium;s_Bradyrhizobium diazoefficiens",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Bradyrhizobiaceae;g_Bradyrhizobium;s_Bradyrhizobium japonicum",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Bradyrhizobiaceae;g_Bradyrhizobium;s_Bradyrhizobium sp.",0.28,0.301048780611625
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Bradyrhizobiaceae;g_Bradyrhizobium;s_Bradyrhizobium sp. BTAi1",0.44,0.020082724485509
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Bradyrhizobiaceae;g_Bradyrhizobium;s_Bradyrhizobium sp. CCGE-LA001",0.64,0.175471547028199
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Bradyrhizobiaceae;g_Rhodopseudomonas;s_Rhodopseudomonas palustris",0.4,0.124334618832711
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Brucellaceae;g_Brucella;s_Brucella abortus",0.4,0.0263636713456086
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Brucellaceae;g_Ochrobactrum;s_Ochrobactrum anthropi",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Brucellaceae;g_Ochrobactrum;s_Ochrobactrum sp. A44",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Chelatococcaceae;g_Chelatococcus;s_Chelatococcus sp. CO-6",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Hyphomicrobiaceae;g_Devosia;s_Devosia sp. H5989",0.8,1.89686023753302e-08
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Methylobacteriaceae;g_Methylobacterium;s_Methylobacterium aquaticum",0.32,0.321511698217727
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Methylobacteriaceae;g_Methylobacterium;s_Methylobacterium oryzae",0.52,0.550410291338947
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Methylobacteriaceae;g_Methylobacterium;s_Methylobacterium phyllosphaerae",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Methylobacteriaceae;g_Methylobacterium;s_Methylobacterium radiotolerans",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Methylobacteriaceae;g_Methylobacterium;s_Methylobacterium sp. C1",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Methylobacteriaceae;g_Methylorubrum;s_Methylorubrum extorquens",0.52,0.000550281397842366
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Methylobacteriaceae;g_Methylorubrum;s_Methylorubrum populi",0.64,0.227304317049654
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Phyllobacteriaceae;g_Mesorhizobium;s_Mesorhizobium ciceri",0.68,0.738541838886847
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Phyllobacteriaceae;g_Mesorhizobium;s_Mesorhizobium loti",0.48,0.252310178413988
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Rhizobiaceae;g_Agrobacterium;s_Agrobacterium fabrum",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Rhizobiaceae;g_Agrobacterium;s_Agrobacterium rhizogenes",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Rhizobiaceae;g_Agrobacterium;s_Agrobacterium sp. RAC06",0.44,0.00578256020443306
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Rhizobiaceae;g_Agrobacterium;s_Agrobacterium tumefaciens",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Rhizobiaceae;g_Ensifer;s_Ensifer adhaerens",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Rhizobiaceae;g_Neorhizobium;s_Neorhizobium galegae",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Rhizobiaceae;g_Rhizobium;s_Rhizobium etli",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Rhizobiaceae;g_Rhizobium;s_Rhizobium leguminosarum",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Rhizobiaceae;g_Rhizobium;s_Rhizobium sp. IRBG74",0.36,0.00132524512671499
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Rhizobiaceae;g_Rhizobium;s_Rhizobium sp. NT-26",0.16,0.470849854204692
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Rhizobiaceae;g_Rhizobium;s_Rhizobium sp. S41",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Rhizobiaceae;g_Shinella;s_Shinella sp. HZN7",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Rhizobiaceae;g_Sinorhizobium;s_Sinorhizobium sp. M14",0.24,0.242661236321804
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Rhizobiaceae;g_Sinorhizobium;s_Sinorhizobium sp. RAC02",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Xanthobacteraceae;g_Starkeya;s_Starkeya novella",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales;f_Xanthobacteraceae;g_Xanthobacter;s_Xanthobacter autotrophicus",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodobacterales;f_Rhodobacteraceae;g_Brevirhabdus;s_Brevirhabdus pacifica",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodobacterales;f_Rhodobacteraceae;g_Celeribacter;s_Celeribacter indicus",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodobacterales;f_Rhodobacteraceae;g_Confluentimicrobium;s_Confluentimicrobium sp. EMB200-NS6",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodobacterales;f_Rhodobacteraceae;g_Defluviimonas;s_Defluviimonas alba",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodobacterales;f_Rhodobacteraceae;g_Ketogulonicigenium;s_Ketogulonicigenium vulgare",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodobacterales;f_Rhodobacteraceae;g_Pannonibacter;s_Pannonibacter phragmitetus",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodobacterales;f_Rhodobacteraceae;g_Paracoccus;s_Paracoccus aestuarii",0.24,0.272910195782933
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodobacterales;f_Rhodobacteraceae;g_Paracoccus;s_Paracoccus aminophilus",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodobacterales;f_Rhodobacteraceae;g_Paracoccus;s_Paracoccus aminovorans",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodobacterales;f_Rhodobacteraceae;g_Paracoccus;s_Paracoccus contaminans",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodobacterales;f_Rhodobacteraceae;g_Paracoccus;s_Paracoccus denitrificans",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodobacterales;f_Rhodobacteraceae;g_Paracoccus;s_Paracoccus haeundaensis",0.56,0.123555757254223
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodobacterales;f_Rhodobacteraceae;g_Paracoccus;s_Paracoccus kondratievae",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodobacterales;f_Rhodobacteraceae;g_Paracoccus;s_Paracoccus marcusii",0.28,0.331666978539683
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodobacterales;f_Rhodobacteraceae;g_Paracoccus;s_Paracoccus methylutens",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodobacterales;f_Rhodobacteraceae;g_Paracoccus;s_Paracoccus solventivorans",0.64,0.127236602170988
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodobacterales;f_Rhodobacteraceae;g_Paracoccus;s_Paracoccus sp. SY",0.4,0.00782582716822554
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodobacterales;f_Rhodobacteraceae;g_Paracoccus;s_Paracoccus yeei",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodobacterales;f_Rhodobacteraceae;g_Rhodobacter;s_Rhodobacter blasticus",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodobacterales;f_Rhodobacteraceae;g_Rhodobacter;s_Rhodobacter capsulatus",0.56,0.55658652829189
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodobacterales;f_Rhodobacteraceae;g_Rhodobacter;s_Rhodobacter sp. LPB0142",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodobacterales;f_Rhodobacteraceae;g_Rhodobacter;s_Rhodobacter sphaeroides",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodobacterales;f_Rhodobacteraceae;g_Rhodovulum;s_Rhodovulum sulfidophilum",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodobacterales;f_Rhodobacteraceae;g_Sulfitobacter;s_Sulfitobacter pseudonitzschiae",0.24,0.762032696318816
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodobacterales;f_Rhodobacteraceae;g_Thioclava;s_Thioclava nitratireducens",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodospirillales;f_Acetobacteraceae;g_Roseomonas;s_Roseomonas gilardii",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Erythrobacteraceae;g_Altererythrobacter;s_Altererythrobacter epoxidivorans",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Erythrobacteraceae;g_Croceicoccus;s_Croceicoccus marinus",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Erythrobacteraceae;g_Croceicoccus;s_Croceicoccus naphthovorans",0.16,0.523401204032276
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Erythrobacteraceae;g_Erythrobacter;s_Erythrobacter litoralis",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Erythrobacteraceae;g_Porphyrobacter;s_Porphyrobacter neustonensis",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Erythrobacteraceae;g_Porphyrobacter;s_Porphyrobacter sp. CACIAM 03H1",0.64,1.46825159247819e-06
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Erythrobacteraceae;g_Porphyrobacter;s_Porphyrobacter sp. LM 6",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Blastomonas;s_Blastomonas fulva",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Blastomonas;s_Blastomonas sp. RAC04",0.24,0.611854430481457
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Novosphingobium;s_Novosphingobium aromaticivorans",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Novosphingobium;s_Novosphingobium pentaromativorans",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Novosphingobium;s_Novosphingobium resinovorum",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Novosphingobium;s_Novosphingobium sp. KA1",0.6,5.29124889012209e-06
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Novosphingobium;s_Novosphingobium sp. PP1Y",0.36,0.140497900968488
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Sphingobium;s_Sphingobium baderi",0.52,0.38508744928536
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Sphingobium;s_Sphingobium chlorophenolicum",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Sphingobium;s_Sphingobium cloacae",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Sphingobium;s_Sphingobium herbicidovorans",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Sphingobium;s_Sphingobium hydrophobicum",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Sphingobium;s_Sphingobium indicum",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Sphingobium;s_Sphingobium japonicum",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Sphingobium;s_Sphingobium sp. MI1205",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Sphingobium;s_Sphingobium sp. RAC03",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Sphingobium;s_Sphingobium sp. SYK-6",0.36,0.0312478428052206
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Sphingobium;s_Sphingobium sp. TKS",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Sphingobium;s_Sphingobium sp. YBL2",0.64,0.0108687068797299
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Sphingomonas;s_Sphingomonas koreensis",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Sphingomonas;s_Sphingomonas melonis",0.52,0.142302308463431
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Sphingomonas;s_Sphingomonas panacis",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Sphingomonas;s_Sphingomonas sanxanigenens",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Sphingomonas;s_Sphingomonas sp. JJ-A5",0.52,0.0417535733158444
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Sphingomonas;s_Sphingomonas sp. LK11",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Sphingomonas;s_Sphingomonas sp. MM-1",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Sphingomonas;s_Sphingomonas sp. NIC1",0.6,0.162323398146246
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Sphingomonas;s_Sphingomonas taxi",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Sphingomonas;s_Sphingomonas wittichii",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Sphingopyxis;s_Sphingopyxis alaskensis",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Sphingopyxis;s_Sphingopyxis fribergensis",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Sphingopyxis;s_Sphingopyxis granuli",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Sphingopyxis;s_Sphingopyxis macrogoltabida",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Sphingopyxis;s_Sphingopyxis sp. 113P3",0.52,0.560843139668908
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Sphingopyxis;s_Sphingopyxis sp. QXT-31",0,1
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Sphingopyxis;s_Sphingopyxis terrae",0.6,1.02904670200108e-05
+"k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales;f_Sphingomonadaceae;g_Sphingopyxis;s_uncultured Sphingopyxis sp.",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Alcaligenaceae;g_Achromobacter;s_Achromobacter denitrificans",0.36,0.141865511640544
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Alcaligenaceae;g_Achromobacter;s_Achromobacter insolitus",0.48,0.0346627405787932
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Alcaligenaceae;g_Achromobacter;s_Achromobacter ruhlandii",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Alcaligenaceae;g_Achromobacter;s_Achromobacter sp. MFA1 R4",0.48,0.00133389682587577
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Alcaligenaceae;g_Achromobacter;s_Achromobacter xylosoxidans",0.6,0.906650309379719
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Alcaligenaceae;g_Alcaligenes;s_Alcaligenes faecalis",0.56,5.99395890273105e-06
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Alcaligenaceae;g_Bordetella;s_Bordetella bronchiseptica",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Alcaligenaceae;g_Bordetella;s_Bordetella hinzii",0.24,0.21286467001542
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Alcaligenaceae;g_Bordetella;s_Bordetella petrii",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Alcaligenaceae;g_Taylorella;s_Taylorella equigenitalis",0.76,0.000597917048135633
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Burkholderia;s_Burkholderia cenocepacia",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Burkholderia;s_Burkholderia cepacia",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Burkholderia;s_Burkholderia multivorans",0.44,0.648916821194158
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Burkholderia;s_Burkholderia pseudomallei",0.36,0.410751734845325
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Burkholderia;s_Burkholderia ubonensis",0.48,0.223667058673359
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Burkholderia;s_Burkholderia vietnamiensis",0.6,0.00203737606476433
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Cupriavidus;s_Cupriavidus basilensis",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Cupriavidus;s_Cupriavidus gilardii",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Cupriavidus;s_Cupriavidus metallidurans",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Cupriavidus;s_Cupriavidus nantongensis",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Cupriavidus;s_Cupriavidus necator",0.64,0.358444690274169
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Cupriavidus;s_Cupriavidus sp. USMAA2-4",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Pandoraea;s_Pandoraea apista",0.52,0.00363881965624584
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Paraburkholderia;s_Paraburkholderia phytofirmans",0.36,0.317534875641637
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Polynucleobacter;s_Polynucleobacter asymbioticus",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Polynucleobacter;s_Polynucleobacter necessarius",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Ralstonia;s_Ralstonia insidiosa",0.04,0.327286881279676
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Ralstonia;s_Ralstonia mannitolilytica",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Ralstonia;s_Ralstonia pickettii",0.32,0.402893492793543
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Ralstonia;s_Ralstonia solanacearum",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Acidovorax;s_Acidovorax avenae",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Acidovorax;s_Acidovorax carolinensis",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Acidovorax;s_Acidovorax citrulli",0.6,0.774563314368073
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Acidovorax;s_Acidovorax ebreus",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Acidovorax;s_Acidovorax sp. JS42",0.52,5.45452718109098e-06
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Acidovorax;s_Acidovorax sp. KKS102",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Acidovorax;s_Acidovorax sp. RAC01",0.52,0.00798140561036999
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Acidovorax;s_Acidovorax sp. T1",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Alicycliphilus;s_Alicycliphilus denitrificans",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Comamonas;s_Comamonas aquatica",0.28,0.316486667568715
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Comamonas;s_Comamonas kerstersii",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Comamonas;s_Comamonas serinivorans",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Comamonas;s_Comamonas testosteroni",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Comamonas;s_Comamonas thiooxydans",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Delftia;s_Delftia acidovorans",0.6,0.00567977446880734
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Delftia;s_Delftia sp. Cs1-4",0.52,0.447797969427421
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Delftia;s_Delftia sp. HK171",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Delftia;s_Delftia tsuruhatensis",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Diaphorobacter;s_Diaphorobacter polyhydroxybutyrativorans",0.28,0.0672433915107736
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Hydrogenophaga;s_Hydrogenophaga sp. PBC",0.52,0.664693751020396
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Hydrogenophaga;s_Hydrogenophaga sp. RAC07",0.48,0.180469132047538
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Limnohabitans;s_Limnohabitans sp. 103DPR2",0.6,0.172910891277933
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Limnohabitans;s_Limnohabitans sp. 63ED37-2",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Ottowia;s_Ottowia sp. oral taxon 894",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Ramlibacter;s_Ramlibacter tataouinensis",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Serpentinomonas;s_Serpentinomonas mccroryi",0.4,0.0392935173463062
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Variovorax;s_Variovorax boronicumulans",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Variovorax;s_Variovorax paradoxus",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Variovorax;s_Variovorax sp. PAMC 28711",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Oxalobacteraceae;g_Collimonas;s_Collimonas arenae",0.44,0.00789226129354138
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Oxalobacteraceae;g_Herbaspirillum;s_Herbaspirillum robiniae",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Oxalobacteraceae;g_Herbaspirillum;s_Herbaspirillum rubrisubalbicans",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Oxalobacteraceae;g_Herbaspirillum;s_Herbaspirillum seropedicae",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Oxalobacteraceae;g_Janthinobacterium;s_Janthinobacterium sp. 1_2014MBL_MicDiv",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Oxalobacteraceae;g_Janthinobacterium;s_Janthinobacterium sp. LM6",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Oxalobacteraceae;g_Massilia;s_Massilia putida",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Oxalobacteraceae;g_Massilia;s_Massilia sp. NR 4-1",0.36,0.0451932587254605
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Oxalobacteraceae;g_Massilia;s_Massilia sp. WG5",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;g_Leptothrix;s_Leptothrix cholodnii",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;g_Methylibium;s_Methylibium petroleiphilum",0.24,0.260517953158233
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;g_Mitsuaria;s_Mitsuaria sp. 7",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;g_Paucibacter;s_Paucibacter sp. KCTC 42545",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;g_Rhizobacter;s_Rhizobacter gummiphilus",0.36,0.466932799705848
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;g_Roseateles;s_Roseateles depolymerans",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;g_Rubrivivax;s_Rubrivivax gelatinosus",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;g_Thiomonas;s_Thiomonas intermedia",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;s_[Polyangium] brachysporum",0.44,0.0313755169134139
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Neisseriales;f_Chromobacteriaceae;g_Laribacter;s_Laribacter hongkongensis",0.6,0.553168941051823
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Neisseriales;f_Neisseriaceae;g_Eikenella;s_Eikenella corrodens",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Neisseriales;f_Neisseriaceae;g_Kingella;s_Kingella kingae",0.96,4.1468532862121e-16
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Neisseriales;f_Neisseriaceae;g_Neisseria;s_Neisseria elongata",0.36,0.0210567908574592
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Neisseriales;f_Neisseriaceae;g_Neisseria;s_Neisseria flavescens",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Neisseriales;f_Neisseriaceae;g_Neisseria;s_Neisseria gonorrhoeae",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Neisseriales;f_Neisseriaceae;g_Neisseria;s_Neisseria lactamica",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Neisseriales;f_Neisseriaceae;g_Neisseria;s_Neisseria meningitidis",0.6,0.00857603206859357
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Neisseriales;f_Neisseriaceae;g_Neisseria;s_Neisseria sicca",0.56,0.00627453206839313
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Neisseriales;f_Neisseriaceae;g_Neisseria;s_Neisseria sp. KEM232",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Neisseriales;f_Neisseriaceae;g_Neisseria;s_Neisseria weaveri",0.52,0.406727817845081
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Neisseriales;f_Neisseriaceae;g_Vitreoscilla;s_Vitreoscilla filiformis",0.6,0.426273894723806
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Nitrosomonadales;f_Methylophilaceae;g_Methylotenera;s_Methylotenera mobilis",0.52,0.355281788259334
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Nitrosomonadales;f_Sterolibacteriaceae;g_Methyloversatilis;s_Methyloversatilis sp. RAC08",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Rhodocyclales;f_Rhodocyclaceae;g_Azospira;s_Azospira oryzae",0.24,0.295917000692572
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Rhodocyclales;f_Rhodocyclaceae;g_Rugosibacter;s_Rugosibacter aromaticivorans",0,1
+"k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;s_beta proteobacterium CB",0,1
+"k_Bacteria;p_Proteobacteria;c_Epsilonproteobacteria;o_Campylobacterales;f_Campylobacteraceae;g_Campylobacter;s_Campylobacter concisus",0.36,0.265251558843749
+"k_Bacteria;p_Proteobacteria;c_Epsilonproteobacteria;o_Campylobacterales;f_Campylobacteraceae;g_Campylobacter;s_Campylobacter gracilis",0.32,0.19760175469395
+"k_Bacteria;p_Proteobacteria;c_Epsilonproteobacteria;o_Campylobacterales;f_Campylobacteraceae;g_Campylobacter;s_Campylobacter jejuni",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Aeromonadales;f_Aeromonadaceae;g_Aeromonas;s_Aeromonas hydrophila",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Aeromonadales;f_Aeromonadaceae;g_Aeromonas;s_Aeromonas media",0.44,0.954910259068409
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Aeromonadales;f_Aeromonadaceae;g_Aeromonas;s_Aeromonas veronii",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Alteromonadales;f_Pseudoalteromonadaceae;g_Pseudoalteromonas;s_Pseudoalteromonas haloplanktis",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Alteromonadales;f_Pseudoalteromonadaceae;g_Pseudoalteromonas;s_Pseudoalteromonas nigrifaciens",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Alteromonadales;f_Shewanellaceae;g_Shewanella;s_Shewanella baltica",0.24,0.176306887537374
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Alteromonadales;f_Shewanellaceae;g_Shewanella;s_Shewanella sp. FDAARGOS_354",0.36,0.11162881349297
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Cardiobacteriales;f_Cardiobacteriaceae;g_Cardiobacterium;s_Cardiobacterium hominis",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Chromatiales;f_Ectothiorhodospiraceae;g_Acidihalobacter;s_Acidihalobacter ferrooxidans",0.04,0.327286881279366
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Citrobacter;s_Citrobacter braakii",0.92,2.26681165741676e-14
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Citrobacter;s_Citrobacter freundii",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Citrobacter;s_Citrobacter koseri",0.36,0.133939877046285
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Citrobacter;s_Citrobacter portucalensis",0.52,0.000202048989781044
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Citrobacter;s_Citrobacter sp. FDAARGOS_156",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Enterobacter;s_Enterobacter asburiae",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Enterobacter;s_Enterobacter cloacae",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Enterobacter;s_Enterobacter hormaechei",0.52,0.253345569947122
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Enterobacter;s_Enterobacter kobei",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Enterobacter;s_Enterobacter ludwigii",0.64,0.617023760487591
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Enterobacter;s_Enterobacter roggenkampii",0.08,0.161491902473177
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Enterobacter;s_Enterobacter soli",0.16,0.723440614931547
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Enterobacter;s_Enterobacter sp. 638",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Escherichia;s_Escherichia coli",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Klebsiella;s_Klebsiella aerogenes",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Klebsiella;s_Klebsiella michiganensis",0.2,0.779404999089116
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Klebsiella;s_Klebsiella oxytoca",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Klebsiella;s_Klebsiella pneumoniae",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Klebsiella;s_Klebsiella quasipneumoniae",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Klebsiella;s_Klebsiella sp. M5al",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Klebsiella;s_Klebsiella variicola",0.56,0.766786302890754
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Kosakonia;s_Kosakonia cowanii",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Leclercia;s_Leclercia adecarboxylata",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Pluralibacter;s_Pluralibacter gergoviae",0.6,0.0416999053439053
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Raoultella;s_Raoultella ornithinolytica",0.96,2.58484658115083e-09
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Salmonella;s_Salmonella enterica",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Shigella;s_Shigella boydii",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Shigella;s_Shigella flexneri",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Shigella;s_Shigella sonnei",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Erwinia;s_Erwinia amylovora",0.08,0.62511471116322
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Erwinia;s_Erwinia gerundensis",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Pantoea;s_Pantoea agglomerans",0.76,3.99594009193066e-09
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Pantoea;s_Pantoea ananatis",1,1.7312520047829e-12
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Pantoea;s_Pantoea sp. PSNIH1",0.6,0.331654955988736
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Pantoea;s_Pantoea sp. PSNIH2",0.72,0.0598277682591679
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Pantoea;s_Pantoea vagans",0.48,0.0484871831020116
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Proteus;s_Proteus mirabilis",0.04,0.32728688127968
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Rahnella;s_Rahnella aquatilis",0.68,0.00066287638232153
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia liquefaciens",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia marcescens",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia plymuthica",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia proteamaculans",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Oceanospirillales;f_Oceanospirillaceae;g_Thalassolituus;s_Thalassolituus oleivorans",0.64,0.223940508515208
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pasteurellales;f_Pasteurellaceae;g_Actinobacillus;s_Actinobacillus pleuropneumoniae",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pasteurellales;f_Pasteurellaceae;g_Aggregatibacter;s_Aggregatibacter actinomycetemcomitans",0.28,0.460686174655747
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pasteurellales;f_Pasteurellaceae;g_Aggregatibacter;s_Aggregatibacter aphrophilus",0.4,0.00691234848947866
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pasteurellales;f_Pasteurellaceae;g_Glaesserella;s_Glaesserella parasuis",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pasteurellales;f_Pasteurellaceae;g_Haemophilus;s_Haemophilus influenzae",0.36,0.0282668533841517
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pasteurellales;f_Pasteurellaceae;g_Haemophilus;s_Haemophilus parainfluenzae",0.48,0.000759176325881468
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pasteurellales;f_Pasteurellaceae;g_Haemophilus;s_Haemophilus pittmaniae",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pasteurellales;f_Pasteurellaceae;g_Haemophilus;s_[Haemophilus] ducreyi",0.64,0.0731284417169458
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pasteurellales;f_Pasteurellaceae;g_Mannheimia;s_Mannheimia haemolytica",0.2,0.554818679741046
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pasteurellales;f_Pasteurellaceae;g_Pasteurella;s_Pasteurella multocida",0.6,0.174859102060618
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Acinetobacter;s_Acinetobacter baumannii",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Acinetobacter;s_Acinetobacter baylyi",0.16,0.942807627385808
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Acinetobacter;s_Acinetobacter calcoaceticus",0.72,7.20456335981602e-07
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Acinetobacter;s_Acinetobacter guillouiae",0.52,9.27785705254603e-05
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Acinetobacter;s_Acinetobacter haemolyticus",0.56,1.88554933495814e-05
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Acinetobacter;s_Acinetobacter johnsonii",0.6,1.23156168935301e-05
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Acinetobacter;s_Acinetobacter junii",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Acinetobacter;s_Acinetobacter lactucae",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Acinetobacter;s_Acinetobacter lwoffii",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Acinetobacter;s_Acinetobacter nosocomialis",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Acinetobacter;s_Acinetobacter oleivorans",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Acinetobacter;s_Acinetobacter pittii",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Acinetobacter;s_Acinetobacter schindleri",0.12,0.837936905233208
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Acinetobacter;s_Acinetobacter soli",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Acinetobacter;s_Acinetobacter sp.",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Acinetobacter;s_Acinetobacter sp. DUT-2",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Acinetobacter;s_Acinetobacter sp. M131",0.36,0.0525393527030236
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Acinetobacter;s_Acinetobacter sp. NCu2D-2",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Acinetobacter;s_Acinetobacter sp. TGL-Y2",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Acinetobacter;s_Acinetobacter sp. TTH0-4",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Acinetobacter;s_Acinetobacter towneri",0.36,0.013184506266848
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Acinetobacter;s_Acinetobacter ursingii",0.6,0.191754422818684
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Acinetobacter;s_Acinetobacter venetianus",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Moraxella;s_Moraxella bovoculi",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Moraxella;s_Moraxella catarrhalis",0.32,0.030394576958072
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Moraxella;s_Moraxella osloensis",0.72,1.06615813523001e-05
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Moraxella;s_Moraxella sp. O245",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Psychrobacter;s_Psychrobacter alimentarius",0.76,0.210089227931767
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Psychrobacter;s_Psychrobacter arcticus",0.04,0.327286881280192
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Psychrobacter;s_Psychrobacter cryohalolentis",0.44,0.00136856210110031
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Psychrobacter;s_Psychrobacter maritimus",1,2.33429935155932e-38
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Psychrobacter;s_Psychrobacter sp. AntiMn-1",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Psychrobacter;s_Psychrobacter sp. DAB_AL43B",0.48,0.0745757083122618
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Psychrobacter;s_Psychrobacter sp. G",0.28,0.138536891544095
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Psychrobacter;s_Psychrobacter sp. P11G5",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Psychrobacter;s_Psychrobacter sp. P2G3",0.24,0.613164560976122
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Psychrobacter;s_Psychrobacter sp. PRwf-1",0.72,0.0152204817854628
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Psychrobacter;s_Psychrobacter urativorans",0.52,0.802052591135226
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas aeruginosa",0.8,0.00148602969837419
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas alcaligenes",0.2,0.461921107602068
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas alcaliphila",0.4,0.0326265968928897
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas alkylphenolica",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas antarctica",0.76,0.000794139694560437
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas azotoformans",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas balearica",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas brassicacearum",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas brenneri",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas cedrina",0.12,0.094388700880095
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas chlororaphis",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas citronellolis",0.6,0.0528336971386368
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas extremaustralis",0.52,0.00113420962087284
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas extremorientalis",0.4,0.179282289266669
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas fluorescens",0.2,0.789296669775932
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas fragi",0.52,0.000122182726057219
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas frederiksbergensis",0.52,0.725607410122288
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas fulva",0.28,0.212096549948774
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas furukawaii",0.44,0.242384998090417
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas granadensis",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas koreensis",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas libanensis",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas lini",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas lundensis",0.6,0.0334034440653379
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas mandelii",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas mendocina",0.4,0.979403505212282
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas monteilii",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas moraviensis",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas mosselii",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas oleovorans",0.52,0.525477161521994
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas orientalis",0.68,0.143007361307912
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas oryzihabitans",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas parafulva",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas plecoglossicida",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas poae",0.64,0.0646778608879016
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas protegens",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas psychrophila",0.72,2.39805435250324e-06
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas psychrotolerans",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas putida",0.68,5.78831957170276e-05
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas reinekei",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas resinovorans",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas rhizosphaerae",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas rhodesiae",0.44,0.905614448411737
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas sihuiensis",0.44,0.2372518141408
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas soli",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas sp. A214",0.52,0.99033332551854
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas sp. ATCC 13867",0.2,0.203733482030444
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas sp. B10",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas sp. CCOS 191",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas sp. DR 5-09",0.56,0.00580465056822982
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas sp. FGI182",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas sp. GR 6-02",0.12,0.217199963812613
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas sp. JY-Q",0.04,0.327286881279727
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas sp. LPH1",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas sp. NS1(2017)",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas sp. TKP",0.2,0.333590712944181
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas sp. URMO17WK12:I11",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas sp. UW4",0.28,0.354389869780387
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas sp. VLB120",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas sp. WCS374",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas sp. Z003-0.4C(8344-21)",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas sp. bs2935",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas stutzeri",0.36,0.0912633711501134
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas synxantha",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas syringae",0.04,0.327286881279676
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas tolaasii",0.32,0.104925721526446
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas trivialis",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas umsongensis",0.28,0.0829835566109878
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas veronii",0.36,0.653177806592525
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas versuta",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas yamanorum",0.24,0.0171538431408619
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Vibrionales;f_Vibrionaceae;g_Vibrio;s_Vibrio anguillarum",0.64,0.00496354999002705
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Vibrionales;f_Vibrionaceae;g_Vibrio;s_Vibrio cholerae",0.16,0.122182944302619
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Xanthomonadales;f_Rhodanobacteraceae;g_Rhodanobacter;s_Rhodanobacter denitrificans",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Xanthomonadales;f_Xanthomonadaceae;g_Lysobacter;s_Lysobacter capsici",0.56,0.000138860376995225
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Xanthomonadales;f_Xanthomonadaceae;g_Lysobacter;s_Lysobacter enzymogenes",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Xanthomonadales;f_Xanthomonadaceae;g_Pseudoxanthomonas;s_Pseudoxanthomonas spadix",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Xanthomonadales;f_Xanthomonadaceae;g_Pseudoxanthomonas;s_Pseudoxanthomonas suwonensis",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Xanthomonadales;f_Xanthomonadaceae;g_Stenotrophomonas;s_Stenotrophomonas acidaminiphila",0.36,0.0199077458006982
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Xanthomonadales;f_Xanthomonadaceae;g_Stenotrophomonas;s_Stenotrophomonas maltophilia",0.4,0.00434767943402611
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Xanthomonadales;f_Xanthomonadaceae;g_Stenotrophomonas;s_Stenotrophomonas rhizophila",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Xanthomonadales;f_Xanthomonadaceae;g_Stenotrophomonas;s_Stenotrophomonas sp. LM091",0.52,0.68131161431517
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Xanthomonadales;f_Xanthomonadaceae;g_Xanthomonas;s_Xanthomonas campestris",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Xanthomonadales;f_Xanthomonadaceae;g_Xanthomonas;s_Xanthomonas citri",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Xanthomonadales;f_Xanthomonadaceae;g_Xanthomonas;s_Xanthomonas euvesicatoria",0,1
+"k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Xanthomonadales;f_Xanthomonadaceae;g_Xanthomonas;s_Xanthomonas translucens",0.64,0.000981760709270809
+"k_Bacteria;p_Spirochaetes;c_Spirochaetia;o_Spirochaetales;f_Spirochaetaceae;g_Treponema;s_Treponema sp. OMZ 838",0,1
+"k_Bacteria;s_uncultured bacterium",0.68,0.000116325909845112
+"k_Bacteria;s_uncultured bacterium A1Q1_fos_150",0,1
+"k_Bacteria;s_uncultured bacterium AD84-H10",0,1
+"k_Bacteria;s_uncultured bacterium BD_contig01284",0,1
+"k_Bacteria;s_uncultured marine bacterium",0.24,0.161826003272848
+"k_Eukaryota;p_Ascomycota;c_Dothideomycetes;o_Capnodiales;f_Cladosporiaceae;g_Cladosporium;s_Cladosporium allicinum",0.48,0.000279951906965886
+"k_Eukaryota;p_Ascomycota;c_Dothideomycetes;o_Capnodiales;f_Mycosphaerellaceae;g_Zymoseptoria;s_Zymoseptoria tritici",1,4.90752584322211e-23
+"k_Eukaryota;p_Ascomycota;c_Dothideomycetes;o_Dothideales;f_Saccotheciaceae;g_Aureobasidium;s_Aureobasidium namibiae",0.76,1.18101804487426e-09
+"k_Eukaryota;p_Ascomycota;c_Dothideomycetes;o_Pleosporales;f_Leptosphaeriaceae;g_Leptosphaeria;s_Leptosphaeria biglobosa",0.6,0.718585152919764
+"k_Eukaryota;p_Ascomycota;c_Dothideomycetes;o_Pleosporales;f_Leptosphaeriaceae;g_Leptosphaeria;s_Leptosphaeria maculans",0,1
+"k_Eukaryota;p_Ascomycota;c_Dothideomycetes;o_Pleosporales;f_Pleosporaceae;g_Alternaria;s_Alternaria alternata",0.32,0.439706047799988
+"k_Eukaryota;p_Ascomycota;c_Eurotiomycetes;o_Chaetothyriales;f_Cyphellophoraceae;g_Cyphellophora;s_Cyphellophora europaea",0.28,0.58967218382644
+"k_Eukaryota;p_Ascomycota;c_Eurotiomycetes;o_Eurotiales;f_Aspergillaceae;g_Aspergillus;s_Aspergillus fumigatus",0.16,0.737183432202748
+"k_Eukaryota;p_Ascomycota;c_Eurotiomycetes;o_Eurotiales;f_Aspergillaceae;g_Aspergillus;s_Aspergillus nidulans",0.56,0.000190953235394192
+"k_Eukaryota;p_Ascomycota;c_Eurotiomycetes;o_Eurotiales;f_Aspergillaceae;g_Aspergillus;s_Aspergillus niger",0.72,0.0105462325537137
+"k_Eukaryota;p_Ascomycota;c_Eurotiomycetes;o_Eurotiales;f_Aspergillaceae;g_Aspergillus;s_Aspergillus oryzae",0.48,0.814890683397368
+"k_Eukaryota;p_Ascomycota;c_Eurotiomycetes;o_Eurotiales;f_Aspergillaceae;g_Aspergillus;s_Aspergillus terreus",0.4,0.945649558726686
+"k_Eukaryota;p_Ascomycota;c_Eurotiomycetes;o_Eurotiales;f_Aspergillaceae;g_Penicillium;s_Penicillium rubens",0.44,0.0020376930998037
+"k_Eukaryota;p_Ascomycota;c_Eurotiomycetes;o_Eurotiales;f_Trichocomaceae;g_Talaromyces;s_Talaromyces pinophilus",0.56,0.172609502639862
+"k_Eukaryota;p_Ascomycota;c_Saccharomycetes;o_Saccharomycetales;f_Debaryomycetaceae;g_Candida;s_Candida parapsilosis",0.56,1.78905624286643e-05
+"k_Eukaryota;p_Ascomycota;c_Saccharomycetes;o_Saccharomycetales;f_Debaryomycetaceae;g_Debaryomyces;s_Debaryomyces fabryi",0.76,1.09245123278094e-09
+"k_Eukaryota;p_Ascomycota;c_Saccharomycetes;o_Saccharomycetales;f_Debaryomycetaceae;g_Debaryomyces;s_Debaryomyces hansenii",0.24,0.382426972309287
+"k_Eukaryota;p_Ascomycota;c_Saccharomycetes;o_Saccharomycetales;f_Debaryomycetaceae;g_Meyerozyma;s_Meyerozyma guilliermondii",0.68,2.90642034308726e-05
+"k_Eukaryota;p_Ascomycota;c_Saccharomycetes;o_Saccharomycetales;f_Dipodascaceae;g_Yarrowia;s_Yarrowia lipolytica",0,1
+"k_Eukaryota;p_Ascomycota;c_Saccharomycetes;o_Saccharomycetales;f_Phaffomycetaceae;g_Komagataella;s_Komagataella pastoris",0.28,0.730146981101471
+"k_Eukaryota;p_Ascomycota;c_Saccharomycetes;o_Saccharomycetales;f_Phaffomycetaceae;g_Komagataella;s_Komagataella phaffii",0.84,5.63950158417921e-11
+"k_Eukaryota;p_Ascomycota;c_Saccharomycetes;o_Saccharomycetales;f_Saccharomycetaceae;g_Lachancea;s_Lachancea thermotolerans",0.8,5.33451354855689e-09
+"k_Eukaryota;p_Ascomycota;c_Saccharomycetes;o_Saccharomycetales;f_Saccharomycetaceae;g_Saccharomyces;s_Saccharomyces cerevisiae",0.16,0.630095799112809
+"k_Eukaryota;p_Ascomycota;c_Sordariomycetes;o_Hypocreales;f_Cordycipitaceae;g_Beauveria;s_Beauveria bassiana",0.72,0.0030075170711696
+"k_Eukaryota;p_Ascomycota;c_Sordariomycetes;o_Sordariales;f_Sordariaceae;g_Neurospora;s_Neurospora crassa",0,1
+"k_Eukaryota;p_Ascomycota;c_Sordariomycetes;o_Sordariales;f_Sordariaceae;g_Sordaria;s_Sordaria macrospora",0.24,0.113410806297924
+"k_Eukaryota;p_Basidiomycota;c_Agaricomycetes;o_Agaricales;f_Omphalotaceae;g_Lentinula;s_Lentinula edodes",0,1
+"k_Eukaryota;p_Basidiomycota;c_Agaricomycetes;o_Cantharellales;f_Ceratobasidiaceae;g_Rhizoctonia;s_Rhizoctonia solani",0,1
+"k_Eukaryota;p_Basidiomycota;c_Agaricomycetes;o_Polyporales;f_Polyporaceae;g_Trametes;s_Trametes hirsuta",0,1
+"k_Eukaryota;p_Basidiomycota;c_Malasseziomycetes;o_Malasseziales;f_Malasseziaceae;g_Malassezia;s_Malassezia arunalokei",0,1
+"k_Eukaryota;p_Basidiomycota;c_Malasseziomycetes;o_Malasseziales;f_Malasseziaceae;g_Malassezia;s_Malassezia furfur",0,1
+"k_Eukaryota;p_Basidiomycota;c_Malasseziomycetes;o_Malasseziales;f_Malasseziaceae;g_Malassezia;s_Malassezia globosa",0.52,0.000653431041222968
+"k_Eukaryota;p_Basidiomycota;c_Malasseziomycetes;o_Malasseziales;f_Malasseziaceae;g_Malassezia;s_Malassezia pachydermatis",0,1
+"k_Eukaryota;p_Basidiomycota;c_Malasseziomycetes;o_Malasseziales;f_Malasseziaceae;g_Malassezia;s_Malassezia restricta",0.6,0.0271223248077515
+"k_Eukaryota;p_Basidiomycota;c_Malasseziomycetes;o_Malasseziales;f_Malasseziaceae;g_Malassezia;s_Malassezia sympodialis",0,1
+"k_Eukaryota;p_Basidiomycota;c_Malasseziomycetes;o_Malasseziales;f_Malasseziaceae;s_uncultured Malassezia",0,1
+"k_Eukaryota;p_Basidiomycota;c_Tremellomycetes;s_uncultured Cryptococcus",0,1
+"k_Eukaryota;p_Basidiomycota;c_Wallemiomycetes;o_Wallemiales;f_Wallemiaceae;g_Wallemia;s_Wallemia mellicola",0.32,0.370725151471312
+"k_Eukaryota;p_Chytridiomycota;c_Chytridiomycetes;o_Spizellomycetales;f_Powellomycetaceae;g_Geranomyces;s_Geranomyces variabilis",0,1
+"k_Eukaryota;p_Chytridiomycota;c_Monoblepharidomycetes;o_Monoblepharidales;f_Monoblepharidaceae;g_Monoblepharis;s_Monoblepharis insignis",0,1
+"k_Eukaryota;s_uncultured fungus",0.44,0.00330429843634859
+"k_Viruses;f_Papillomaviridae;g_Betapapillomavirus;s_Betapapillomavirus 1",0.76,8.0709393573646e-10
+"k_Viruses;f_Papillomaviridae;g_Betapapillomavirus;s_Betapapillomavirus 2",0,1
+"k_Viruses;f_Poxviridae;s_BeAn 58058 virus",0,1
+"k_Viruses;o_Caudovirales;f_Myoviridae;g_Jilinvirus;s_Enterobacter phage Arya",0.6,7.74701005074925e-05
+"k_Viruses;o_Caudovirales;f_Myoviridae;s_Citrobacter phage IME-CF2",0.76,0.0124780273655125
+"k_Viruses;o_Caudovirales;f_Myoviridae;s_Citrobacter phage Miller",0,1
+"k_Viruses;o_Caudovirales;f_Myoviridae;s_Citrobacter phage vB_CfrM_CfP1",0.76,0.00267880578880372
+"k_Viruses;o_Caudovirales;f_Myoviridae;s_Escherichia virus RB43",0.44,0.0369646069746543
+"k_Viruses;o_Caudovirales;f_Podoviridae;g_Teseptimavirus;s_Citrobacter phage SH3",0,1
+"k_Viruses;o_Caudovirales;f_Podoviridae;g_Teseptimavirus;s_Citrobacter phage SH4",0.44,0.30389047542378
+"k_Viruses;o_Caudovirales;f_Podoviridae;g_Teseptimavirus;s_Enterobacteria phage K1F",0.36,0.850853166899603
+"k_Viruses;o_Caudovirales;f_Podoviridae;g_Teseptimavirus;s_Escherichia phage vB_EcoP_GA2A",0.44,0.00129302746687922
+"k_Viruses;o_Caudovirales;f_Podoviridae;g_Zindervirus;s_Escherichia phage ECBP5",0.56,0.338521050031927
+"k_Viruses;o_Caudovirales;f_Podoviridae;g_Zindervirus;s_Pectobacterium phage PP99",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Amigovirus;s_Arthrobacteria virus Molivia",0.32,0.0431202052070178
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium phage BruceLethal",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium phage Enoki",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium phage Moyashi",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium phage PA1-14",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium phage PAC1",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium phage PAC10",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium phage PAC7",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium phage PAC8",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium phage PAC9",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium phage PHL030N00",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium phage PHL055N00",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium phage PHL064M01",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium phage PHL064M02",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium phage PHL066M04",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium phage PHL073M02",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium phage PHL082M02",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium phage PHL082M04",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium phage PHL085M01",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium phage PHL085N00",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium phage PHL115M02",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium phage PHL116M10",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium phage PHL150M00",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium phage PacnesP1",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium phage PacnesP2",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium phage QueenBey",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus ATCC29399BC",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus ATCC29399BT",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus Attacne",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus Keiki",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus Lauchelly",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus MrAK",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus Ouroboros",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus P1.1",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus P1001",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus P100A",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus P100D",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus P101A",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus P104A",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus P105",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus P144",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus PA6",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus PAS50",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus PHL009M11",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus PHL025M00",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus PHL037M02",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus PHL041M10",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus PHL060L00",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus PHL070N00",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus PHL071N05",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus PHL092M00",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus PHL111M01",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus PHL113M01",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus PHL114L00",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus PHL116M00",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus PHL117M00",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus PHL117M01",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus PHL132N00",0.52,0.0011971097958687
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus PHL141N00",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus PHL151M00",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus PHL151N00",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus PHL152M00",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus PHL163M00",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus PHL171M01",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus PHL179M00",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus PHL308M00",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus Pacnes201215",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus Pirate",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus Procrass1",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus SKKY",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus Solid",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus Stormborn",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Pahexavirus;s_Propionibacterium virus Wizzo",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Phietavirus;s_Staphylococcus phage CNPx",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Phietavirus;s_Staphylococcus phage IME1318_01",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Phietavirus;s_Staphylococcus phage IME1348_01",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Phietavirus;s_Staphylococcus phage StB12",0.6,1.98868496790378e-05
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Phietavirus;s_Staphylococcus phage StB27",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Phietavirus;s_Staphylococcus virus CNPH82",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Phietavirus;s_Staphylococcus virus IPLA5",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Phietavirus;s_Staphylococcus virus IPLA7",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Phietavirus;s_Staphylococcus virus PH15",0,1
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Roufvirus;s_Salmonella phage 64795_sal3",0.72,0.0129313371308299
+"k_Viruses;o_Caudovirales;f_Siphoviridae;g_Roufvirus;s_Salmonella phage LPST10",0.68,0.899379296992134
+"k_Viruses;o_Caudovirales;f_Siphoviridae;s_Staphylococcus phage HOB 14.1.R1",0.72,1.18463656510666e-07
+"k_Viruses;o_Caudovirales;f_Siphoviridae;s_Staphylococcus phage StB20",0.36,0.0100353074078511
+"k_Viruses;o_Caudovirales;f_Siphoviridae;s_Staphylococcus phage StB20-like",0.32,0.0523617134443927
+"k_Viruses;o_Herpesvirales;f_Herpesviridae;g_Cytomegalovirus;s_Cercopithecine betaherpesvirus 5",0,1
+"k_Viruses;o_Ortervirales;f_Retroviridae;g_Gammaretrovirus;s_Porcine type-C oncovirus",0.16,0.940894081979686
+"k_Viruses;o_Ortervirales;f_Retroviridae;g_Lentivirus;s_Human immunodeficiency virus 1",0,1
+"k_Viruses;o_Ortervirales;f_Retroviridae;s_Human endogenous retrovirus",0,1
+"k_Viruses;o_Ortervirales;f_Retroviridae;s_Human endogenous retrovirus H",0,1
+"k_Viruses;o_Ortervirales;f_Retroviridae;s_Human endogenous retrovirus K",0,1
+"k_Viruses;o_Ortervirales;f_Retroviridae;s_Human endogenous retrovirus W",0,1
+"k_Viruses;s_Phage 16",0.56,8.0810996097417e-05
+"k_Viruses;s_uncultured virus",0,1
