@@ -1,0 +1,9 @@
+z	x	1
+x	z	2
+z	y	3
+x	y	4
+y	z	5
+y	x	6
+x	x	7
+y	y	8
+z	z	9
